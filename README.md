@@ -1,8 +1,8 @@
 # minimal-latex-cv
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L6PE9DXFGXPY6)
 
 Minimal CV template using LaTeX.
 
+# Preview
 [![PDF Result](https://jan.vorisek.me/images/main-1.jpg "PDF Result")](minimal-latex-cv.pdf)
 
 
